@@ -1,3 +1,2 @@
-/ .vscode
-/ 2sum.exe
-/ 3sum.cpp
+.vscode/
+*.exe
